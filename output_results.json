@@ -1,0 +1,38 @@
+[
+    {
+        "file": "/root/claude_tests/NEODEMO1/data/images/invoice_0.png",
+        "output": {
+            "vendor_name": "Global Tech Solutions 1981 1982 1983 1984",
+            "invoice_date": "Date : 2021 - 12 - 08",
+            "total_amount": "The first generation was the first ever ever ever ever ever ever ever ever ever ever ever ever ever ever",
+            "line_items": [
+                "Description tem 1 service tem 2 service em 3 service"
+            ],
+            "confidence_scores": {
+                "vendor": 0.36364006996154785,
+                "date": 0.6905943751335144,
+                "total": 0.5110591053962708
+            }
+        }
+    },
+    {
+        "file": "/root/claude_tests/NEODEMO1/data/images/invoice_1.png",
+        "output": {
+            "vendor_name": "Summistrode Oficina SA 1887 1889",
+            "invoice_date": "a 2022. 02. 23",
+            "total_amount": "Not logged inTalkContributionsCreate accountLog in",
+            "line_items": [
+                "Des",
+                "ri pe ian servic",
+                "servic",
+                "servi",
+                "Mont"
+            ],
+            "confidence_scores": {
+                "vendor": 0.35189610719680786,
+                "date": 0.5207899808883667,
+                "total": 0.38029351830482483
+            }
+        }
+    }
+]

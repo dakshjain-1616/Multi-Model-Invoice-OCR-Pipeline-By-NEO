@@ -1,0 +1,3402 @@
+[
+    {
+        "image_path": "data/images/invoice_0.png",
+        "width": 800,
+        "height": 1000,
+        "entities": [
+            {
+                "text": "Global Tech Solutions",
+                "label": "B-VENDOR",
+                "box": [
+                    50,
+                    50,
+                    300,
+                    80
+                ]
+            },
+            {
+                "text": "2021-12-03",
+                "label": "B-DATE",
+                "box": [
+                    150,
+                    120,
+                    250,
+                    140
+                ]
+            },
+            {
+                "text": "Item 1 service",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    230,
+                    200,
+                    250
+                ]
+            },
+            {
+                "text": "Item 2 service",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    260,
+                    200,
+                    280
+                ]
+            },
+            {
+                "text": "Item 3 service",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    290,
+                    200,
+                    310
+                ]
+            },
+            {
+                "text": "3873.71",
+                "label": "B-TOTAL",
+                "box": [
+                    180,
+                    400,
+                    280,
+                    425
+                ]
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "image_path": "data/images/invoice_1.png",
+        "width": 800,
+        "height": 1000,
+        "entities": [
+            {
+                "text": "Suministros de Oficina S.A.",
+                "label": "B-VENDOR",
+                "box": [
+                    50,
+                    50,
+                    300,
+                    80
+                ]
+            },
+            {
+                "text": "2022-02-23",
+                "label": "B-DATE",
+                "box": [
+                    150,
+                    120,
+                    250,
+                    140
+                ]
+            },
+            {
+                "text": "Servicio 1",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    230,
+                    200,
+                    250
+                ]
+            },
+            {
+                "text": "Servicio 2",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    260,
+                    200,
+                    280
+                ]
+            },
+            {
+                "text": "Servicio 3",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    290,
+                    200,
+                    310
+                ]
+            },
+            {
+                "text": "2612.90",
+                "label": "B-TOTAL",
+                "box": [
+                    180,
+                    400,
+                    280,
+                    425
+                ]
+            }
+        ],
+        "language": "es"
+    },
+    {
+        "image_path": "data/images/invoice_2.png",
+        "width": 800,
+        "height": 1000,
+        "entities": [
+            {
+                "text": "North Star Logistics",
+                "label": "B-VENDOR",
+                "box": [
+                    50,
+                    50,
+                    300,
+                    80
+                ]
+            },
+            {
+                "text": "2022-10-21",
+                "label": "B-DATE",
+                "box": [
+                    150,
+                    120,
+                    250,
+                    140
+                ]
+            },
+            {
+                "text": "Item 1 service",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    230,
+                    200,
+                    250
+                ]
+            },
+            {
+                "text": "Item 2 service",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    260,
+                    200,
+                    280
+                ]
+            },
+            {
+                "text": "Item 3 service",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    290,
+                    200,
+                    310
+                ]
+            },
+            {
+                "text": "1335.89",
+                "label": "B-TOTAL",
+                "box": [
+                    180,
+                    400,
+                    280,
+                    425
+                ]
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "image_path": "data/images/invoice_3.png",
+        "width": 800,
+        "height": 1000,
+        "entities": [
+            {
+                "text": "Suministros de Oficina S.A.",
+                "label": "B-VENDOR",
+                "box": [
+                    50,
+                    50,
+                    300,
+                    80
+                ]
+            },
+            {
+                "text": "2024-10-04",
+                "label": "B-DATE",
+                "box": [
+                    150,
+                    120,
+                    250,
+                    140
+                ]
+            },
+            {
+                "text": "Servicio 1",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    230,
+                    200,
+                    250
+                ]
+            },
+            {
+                "text": "Servicio 2",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    260,
+                    200,
+                    280
+                ]
+            },
+            {
+                "text": "Servicio 3",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    290,
+                    200,
+                    310
+                ]
+            },
+            {
+                "text": "832.16",
+                "label": "B-TOTAL",
+                "box": [
+                    180,
+                    400,
+                    280,
+                    425
+                ]
+            }
+        ],
+        "language": "es"
+    },
+    {
+        "image_path": "data/images/invoice_4.png",
+        "width": 800,
+        "height": 1000,
+        "entities": [
+            {
+                "text": "Global Tech Solutions",
+                "label": "B-VENDOR",
+                "box": [
+                    50,
+                    50,
+                    300,
+                    80
+                ]
+            },
+            {
+                "text": "2025-12-27",
+                "label": "B-DATE",
+                "box": [
+                    150,
+                    120,
+                    250,
+                    140
+                ]
+            },
+            {
+                "text": "Item 1 service",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    230,
+                    200,
+                    250
+                ]
+            },
+            {
+                "text": "Item 2 service",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    260,
+                    200,
+                    280
+                ]
+            },
+            {
+                "text": "Item 3 service",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    290,
+                    200,
+                    310
+                ]
+            },
+            {
+                "text": "2263.63",
+                "label": "B-TOTAL",
+                "box": [
+                    180,
+                    400,
+                    280,
+                    425
+                ]
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "image_path": "data/images/invoice_5.png",
+        "width": 800,
+        "height": 1000,
+        "entities": [
+            {
+                "text": "Suministros de Oficina S.A.",
+                "label": "B-VENDOR",
+                "box": [
+                    50,
+                    50,
+                    300,
+                    80
+                ]
+            },
+            {
+                "text": "2024-11-10",
+                "label": "B-DATE",
+                "box": [
+                    150,
+                    120,
+                    250,
+                    140
+                ]
+            },
+            {
+                "text": "Servicio 1",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    230,
+                    200,
+                    250
+                ]
+            },
+            {
+                "text": "Servicio 2",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    260,
+                    200,
+                    280
+                ]
+            },
+            {
+                "text": "Servicio 3",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    290,
+                    200,
+                    310
+                ]
+            },
+            {
+                "text": "1258.92",
+                "label": "B-TOTAL",
+                "box": [
+                    180,
+                    400,
+                    280,
+                    425
+                ]
+            }
+        ],
+        "language": "es"
+    },
+    {
+        "image_path": "data/images/invoice_6.png",
+        "width": 800,
+        "height": 1000,
+        "entities": [
+            {
+                "text": "Global Tech Solutions",
+                "label": "B-VENDOR",
+                "box": [
+                    50,
+                    50,
+                    300,
+                    80
+                ]
+            },
+            {
+                "text": "2021-01-01",
+                "label": "B-DATE",
+                "box": [
+                    150,
+                    120,
+                    250,
+                    140
+                ]
+            },
+            {
+                "text": "Item 1 service",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    230,
+                    200,
+                    250
+                ]
+            },
+            {
+                "text": "Item 2 service",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    260,
+                    200,
+                    280
+                ]
+            },
+            {
+                "text": "Item 3 service",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    290,
+                    200,
+                    310
+                ]
+            },
+            {
+                "text": "836.56",
+                "label": "B-TOTAL",
+                "box": [
+                    180,
+                    400,
+                    280,
+                    425
+                ]
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "image_path": "data/images/invoice_7.png",
+        "width": 800,
+        "height": 1000,
+        "entities": [
+            {
+                "text": "Soluciones Tecnol\u00f3gicas Globales",
+                "label": "B-VENDOR",
+                "box": [
+                    50,
+                    50,
+                    300,
+                    80
+                ]
+            },
+            {
+                "text": "2022-05-05",
+                "label": "B-DATE",
+                "box": [
+                    150,
+                    120,
+                    250,
+                    140
+                ]
+            },
+            {
+                "text": "Servicio 1",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    230,
+                    200,
+                    250
+                ]
+            },
+            {
+                "text": "Servicio 2",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    260,
+                    200,
+                    280
+                ]
+            },
+            {
+                "text": "Servicio 3",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    290,
+                    200,
+                    310
+                ]
+            },
+            {
+                "text": "3524.24",
+                "label": "B-TOTAL",
+                "box": [
+                    180,
+                    400,
+                    280,
+                    425
+                ]
+            }
+        ],
+        "language": "es"
+    },
+    {
+        "image_path": "data/images/invoice_8.png",
+        "width": 800,
+        "height": 1000,
+        "entities": [
+            {
+                "text": "North Star Logistics",
+                "label": "B-VENDOR",
+                "box": [
+                    50,
+                    50,
+                    300,
+                    80
+                ]
+            },
+            {
+                "text": "2023-11-11",
+                "label": "B-DATE",
+                "box": [
+                    150,
+                    120,
+                    250,
+                    140
+                ]
+            },
+            {
+                "text": "Item 1 service",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    230,
+                    200,
+                    250
+                ]
+            },
+            {
+                "text": "Item 2 service",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    260,
+                    200,
+                    280
+                ]
+            },
+            {
+                "text": "Item 3 service",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    290,
+                    200,
+                    310
+                ]
+            },
+            {
+                "text": "2284.42",
+                "label": "B-TOTAL",
+                "box": [
+                    180,
+                    400,
+                    280,
+                    425
+                ]
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "image_path": "data/images/invoice_9.png",
+        "width": 800,
+        "height": 1000,
+        "entities": [
+            {
+                "text": "Suministros de Oficina S.A.",
+                "label": "B-VENDOR",
+                "box": [
+                    50,
+                    50,
+                    300,
+                    80
+                ]
+            },
+            {
+                "text": "2024-03-14",
+                "label": "B-DATE",
+                "box": [
+                    150,
+                    120,
+                    250,
+                    140
+                ]
+            },
+            {
+                "text": "Servicio 1",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    230,
+                    200,
+                    250
+                ]
+            },
+            {
+                "text": "Servicio 2",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    260,
+                    200,
+                    280
+                ]
+            },
+            {
+                "text": "Servicio 3",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    290,
+                    200,
+                    310
+                ]
+            },
+            {
+                "text": "3605.81",
+                "label": "B-TOTAL",
+                "box": [
+                    180,
+                    400,
+                    280,
+                    425
+                ]
+            }
+        ],
+        "language": "es"
+    },
+    {
+        "image_path": "data/images/invoice_10.png",
+        "width": 800,
+        "height": 1000,
+        "entities": [
+            {
+                "text": "Global Tech Solutions",
+                "label": "B-VENDOR",
+                "box": [
+                    50,
+                    50,
+                    300,
+                    80
+                ]
+            },
+            {
+                "text": "2024-05-01",
+                "label": "B-DATE",
+                "box": [
+                    150,
+                    120,
+                    250,
+                    140
+                ]
+            },
+            {
+                "text": "Item 1 service",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    230,
+                    200,
+                    250
+                ]
+            },
+            {
+                "text": "Item 2 service",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    260,
+                    200,
+                    280
+                ]
+            },
+            {
+                "text": "Item 3 service",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    290,
+                    200,
+                    310
+                ]
+            },
+            {
+                "text": "2561.10",
+                "label": "B-TOTAL",
+                "box": [
+                    180,
+                    400,
+                    280,
+                    425
+                ]
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "image_path": "data/images/invoice_11.png",
+        "width": 800,
+        "height": 1000,
+        "entities": [
+            {
+                "text": "Log\u00edstica Estrella del Norte",
+                "label": "B-VENDOR",
+                "box": [
+                    50,
+                    50,
+                    300,
+                    80
+                ]
+            },
+            {
+                "text": "2021-02-03",
+                "label": "B-DATE",
+                "box": [
+                    150,
+                    120,
+                    250,
+                    140
+                ]
+            },
+            {
+                "text": "Servicio 1",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    230,
+                    200,
+                    250
+                ]
+            },
+            {
+                "text": "Servicio 2",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    260,
+                    200,
+                    280
+                ]
+            },
+            {
+                "text": "Servicio 3",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    290,
+                    200,
+                    310
+                ]
+            },
+            {
+                "text": "4318.13",
+                "label": "B-TOTAL",
+                "box": [
+                    180,
+                    400,
+                    280,
+                    425
+                ]
+            }
+        ],
+        "language": "es"
+    },
+    {
+        "image_path": "data/images/invoice_12.png",
+        "width": 800,
+        "height": 1000,
+        "entities": [
+            {
+                "text": "Office Supplies Inc.",
+                "label": "B-VENDOR",
+                "box": [
+                    50,
+                    50,
+                    300,
+                    80
+                ]
+            },
+            {
+                "text": "2020-01-22",
+                "label": "B-DATE",
+                "box": [
+                    150,
+                    120,
+                    250,
+                    140
+                ]
+            },
+            {
+                "text": "Item 1 service",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    230,
+                    200,
+                    250
+                ]
+            },
+            {
+                "text": "Item 2 service",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    260,
+                    200,
+                    280
+                ]
+            },
+            {
+                "text": "Item 3 service",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    290,
+                    200,
+                    310
+                ]
+            },
+            {
+                "text": "632.76",
+                "label": "B-TOTAL",
+                "box": [
+                    180,
+                    400,
+                    280,
+                    425
+                ]
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "image_path": "data/images/invoice_13.png",
+        "width": 800,
+        "height": 1000,
+        "entities": [
+            {
+                "text": "Suministros de Oficina S.A.",
+                "label": "B-VENDOR",
+                "box": [
+                    50,
+                    50,
+                    300,
+                    80
+                ]
+            },
+            {
+                "text": "2023-09-12",
+                "label": "B-DATE",
+                "box": [
+                    150,
+                    120,
+                    250,
+                    140
+                ]
+            },
+            {
+                "text": "Servicio 1",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    230,
+                    200,
+                    250
+                ]
+            },
+            {
+                "text": "Servicio 2",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    260,
+                    200,
+                    280
+                ]
+            },
+            {
+                "text": "Servicio 3",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    290,
+                    200,
+                    310
+                ]
+            },
+            {
+                "text": "3202.87",
+                "label": "B-TOTAL",
+                "box": [
+                    180,
+                    400,
+                    280,
+                    425
+                ]
+            }
+        ],
+        "language": "es"
+    },
+    {
+        "image_path": "data/images/invoice_14.png",
+        "width": 800,
+        "height": 1000,
+        "entities": [
+            {
+                "text": "Office Supplies Inc.",
+                "label": "B-VENDOR",
+                "box": [
+                    50,
+                    50,
+                    300,
+                    80
+                ]
+            },
+            {
+                "text": "2023-01-09",
+                "label": "B-DATE",
+                "box": [
+                    150,
+                    120,
+                    250,
+                    140
+                ]
+            },
+            {
+                "text": "Item 1 service",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    230,
+                    200,
+                    250
+                ]
+            },
+            {
+                "text": "Item 2 service",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    260,
+                    200,
+                    280
+                ]
+            },
+            {
+                "text": "Item 3 service",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    290,
+                    200,
+                    310
+                ]
+            },
+            {
+                "text": "1793.08",
+                "label": "B-TOTAL",
+                "box": [
+                    180,
+                    400,
+                    280,
+                    425
+                ]
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "image_path": "data/images/invoice_15.png",
+        "width": 800,
+        "height": 1000,
+        "entities": [
+            {
+                "text": "Suministros de Oficina S.A.",
+                "label": "B-VENDOR",
+                "box": [
+                    50,
+                    50,
+                    300,
+                    80
+                ]
+            },
+            {
+                "text": "2025-06-15",
+                "label": "B-DATE",
+                "box": [
+                    150,
+                    120,
+                    250,
+                    140
+                ]
+            },
+            {
+                "text": "Servicio 1",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    230,
+                    200,
+                    250
+                ]
+            },
+            {
+                "text": "Servicio 2",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    260,
+                    200,
+                    280
+                ]
+            },
+            {
+                "text": "Servicio 3",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    290,
+                    200,
+                    310
+                ]
+            },
+            {
+                "text": "2795.41",
+                "label": "B-TOTAL",
+                "box": [
+                    180,
+                    400,
+                    280,
+                    425
+                ]
+            }
+        ],
+        "language": "es"
+    },
+    {
+        "image_path": "data/images/invoice_16.png",
+        "width": 800,
+        "height": 1000,
+        "entities": [
+            {
+                "text": "Office Supplies Inc.",
+                "label": "B-VENDOR",
+                "box": [
+                    50,
+                    50,
+                    300,
+                    80
+                ]
+            },
+            {
+                "text": "2025-09-04",
+                "label": "B-DATE",
+                "box": [
+                    150,
+                    120,
+                    250,
+                    140
+                ]
+            },
+            {
+                "text": "Item 1 service",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    230,
+                    200,
+                    250
+                ]
+            },
+            {
+                "text": "Item 2 service",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    260,
+                    200,
+                    280
+                ]
+            },
+            {
+                "text": "Item 3 service",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    290,
+                    200,
+                    310
+                ]
+            },
+            {
+                "text": "3687.75",
+                "label": "B-TOTAL",
+                "box": [
+                    180,
+                    400,
+                    280,
+                    425
+                ]
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "image_path": "data/images/invoice_17.png",
+        "width": 800,
+        "height": 1000,
+        "entities": [
+            {
+                "text": "Soluciones Tecnol\u00f3gicas Globales",
+                "label": "B-VENDOR",
+                "box": [
+                    50,
+                    50,
+                    300,
+                    80
+                ]
+            },
+            {
+                "text": "2020-08-21",
+                "label": "B-DATE",
+                "box": [
+                    150,
+                    120,
+                    250,
+                    140
+                ]
+            },
+            {
+                "text": "Servicio 1",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    230,
+                    200,
+                    250
+                ]
+            },
+            {
+                "text": "Servicio 2",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    260,
+                    200,
+                    280
+                ]
+            },
+            {
+                "text": "Servicio 3",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    290,
+                    200,
+                    310
+                ]
+            },
+            {
+                "text": "1291.89",
+                "label": "B-TOTAL",
+                "box": [
+                    180,
+                    400,
+                    280,
+                    425
+                ]
+            }
+        ],
+        "language": "es"
+    },
+    {
+        "image_path": "data/images/invoice_18.png",
+        "width": 800,
+        "height": 1000,
+        "entities": [
+            {
+                "text": "Global Tech Solutions",
+                "label": "B-VENDOR",
+                "box": [
+                    50,
+                    50,
+                    300,
+                    80
+                ]
+            },
+            {
+                "text": "2024-12-15",
+                "label": "B-DATE",
+                "box": [
+                    150,
+                    120,
+                    250,
+                    140
+                ]
+            },
+            {
+                "text": "Item 1 service",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    230,
+                    200,
+                    250
+                ]
+            },
+            {
+                "text": "Item 2 service",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    260,
+                    200,
+                    280
+                ]
+            },
+            {
+                "text": "Item 3 service",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    290,
+                    200,
+                    310
+                ]
+            },
+            {
+                "text": "277.75",
+                "label": "B-TOTAL",
+                "box": [
+                    180,
+                    400,
+                    280,
+                    425
+                ]
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "image_path": "data/images/invoice_19.png",
+        "width": 800,
+        "height": 1000,
+        "entities": [
+            {
+                "text": "Suministros de Oficina S.A.",
+                "label": "B-VENDOR",
+                "box": [
+                    50,
+                    50,
+                    300,
+                    80
+                ]
+            },
+            {
+                "text": "2021-10-17",
+                "label": "B-DATE",
+                "box": [
+                    150,
+                    120,
+                    250,
+                    140
+                ]
+            },
+            {
+                "text": "Servicio 1",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    230,
+                    200,
+                    250
+                ]
+            },
+            {
+                "text": "Servicio 2",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    260,
+                    200,
+                    280
+                ]
+            },
+            {
+                "text": "Servicio 3",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    290,
+                    200,
+                    310
+                ]
+            },
+            {
+                "text": "205.15",
+                "label": "B-TOTAL",
+                "box": [
+                    180,
+                    400,
+                    280,
+                    425
+                ]
+            }
+        ],
+        "language": "es"
+    },
+    {
+        "image_path": "data/images/invoice_20.png",
+        "width": 800,
+        "height": 1000,
+        "entities": [
+            {
+                "text": "Global Tech Solutions",
+                "label": "B-VENDOR",
+                "box": [
+                    50,
+                    50,
+                    300,
+                    80
+                ]
+            },
+            {
+                "text": "2020-04-24",
+                "label": "B-DATE",
+                "box": [
+                    150,
+                    120,
+                    250,
+                    140
+                ]
+            },
+            {
+                "text": "Item 1 service",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    230,
+                    200,
+                    250
+                ]
+            },
+            {
+                "text": "Item 2 service",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    260,
+                    200,
+                    280
+                ]
+            },
+            {
+                "text": "Item 3 service",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    290,
+                    200,
+                    310
+                ]
+            },
+            {
+                "text": "2051.52",
+                "label": "B-TOTAL",
+                "box": [
+                    180,
+                    400,
+                    280,
+                    425
+                ]
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "image_path": "data/images/invoice_21.png",
+        "width": 800,
+        "height": 1000,
+        "entities": [
+            {
+                "text": "Suministros de Oficina S.A.",
+                "label": "B-VENDOR",
+                "box": [
+                    50,
+                    50,
+                    300,
+                    80
+                ]
+            },
+            {
+                "text": "2022-02-19",
+                "label": "B-DATE",
+                "box": [
+                    150,
+                    120,
+                    250,
+                    140
+                ]
+            },
+            {
+                "text": "Servicio 1",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    230,
+                    200,
+                    250
+                ]
+            },
+            {
+                "text": "Servicio 2",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    260,
+                    200,
+                    280
+                ]
+            },
+            {
+                "text": "Servicio 3",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    290,
+                    200,
+                    310
+                ]
+            },
+            {
+                "text": "128.82",
+                "label": "B-TOTAL",
+                "box": [
+                    180,
+                    400,
+                    280,
+                    425
+                ]
+            }
+        ],
+        "language": "es"
+    },
+    {
+        "image_path": "data/images/invoice_22.png",
+        "width": 800,
+        "height": 1000,
+        "entities": [
+            {
+                "text": "North Star Logistics",
+                "label": "B-VENDOR",
+                "box": [
+                    50,
+                    50,
+                    300,
+                    80
+                ]
+            },
+            {
+                "text": "2023-11-06",
+                "label": "B-DATE",
+                "box": [
+                    150,
+                    120,
+                    250,
+                    140
+                ]
+            },
+            {
+                "text": "Item 1 service",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    230,
+                    200,
+                    250
+                ]
+            },
+            {
+                "text": "Item 2 service",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    260,
+                    200,
+                    280
+                ]
+            },
+            {
+                "text": "Item 3 service",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    290,
+                    200,
+                    310
+                ]
+            },
+            {
+                "text": "1498.56",
+                "label": "B-TOTAL",
+                "box": [
+                    180,
+                    400,
+                    280,
+                    425
+                ]
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "image_path": "data/images/invoice_23.png",
+        "width": 800,
+        "height": 1000,
+        "entities": [
+            {
+                "text": "Suministros de Oficina S.A.",
+                "label": "B-VENDOR",
+                "box": [
+                    50,
+                    50,
+                    300,
+                    80
+                ]
+            },
+            {
+                "text": "2024-09-17",
+                "label": "B-DATE",
+                "box": [
+                    150,
+                    120,
+                    250,
+                    140
+                ]
+            },
+            {
+                "text": "Servicio 1",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    230,
+                    200,
+                    250
+                ]
+            },
+            {
+                "text": "Servicio 2",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    260,
+                    200,
+                    280
+                ]
+            },
+            {
+                "text": "Servicio 3",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    290,
+                    200,
+                    310
+                ]
+            },
+            {
+                "text": "3251.92",
+                "label": "B-TOTAL",
+                "box": [
+                    180,
+                    400,
+                    280,
+                    425
+                ]
+            }
+        ],
+        "language": "es"
+    },
+    {
+        "image_path": "data/images/invoice_24.png",
+        "width": 800,
+        "height": 1000,
+        "entities": [
+            {
+                "text": "North Star Logistics",
+                "label": "B-VENDOR",
+                "box": [
+                    50,
+                    50,
+                    300,
+                    80
+                ]
+            },
+            {
+                "text": "2023-08-02",
+                "label": "B-DATE",
+                "box": [
+                    150,
+                    120,
+                    250,
+                    140
+                ]
+            },
+            {
+                "text": "Item 1 service",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    230,
+                    200,
+                    250
+                ]
+            },
+            {
+                "text": "Item 2 service",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    260,
+                    200,
+                    280
+                ]
+            },
+            {
+                "text": "Item 3 service",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    290,
+                    200,
+                    310
+                ]
+            },
+            {
+                "text": "3393.05",
+                "label": "B-TOTAL",
+                "box": [
+                    180,
+                    400,
+                    280,
+                    425
+                ]
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "image_path": "data/images/invoice_25.png",
+        "width": 800,
+        "height": 1000,
+        "entities": [
+            {
+                "text": "Log\u00edstica Estrella del Norte",
+                "label": "B-VENDOR",
+                "box": [
+                    50,
+                    50,
+                    300,
+                    80
+                ]
+            },
+            {
+                "text": "2022-04-02",
+                "label": "B-DATE",
+                "box": [
+                    150,
+                    120,
+                    250,
+                    140
+                ]
+            },
+            {
+                "text": "Servicio 1",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    230,
+                    200,
+                    250
+                ]
+            },
+            {
+                "text": "Servicio 2",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    260,
+                    200,
+                    280
+                ]
+            },
+            {
+                "text": "Servicio 3",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    290,
+                    200,
+                    310
+                ]
+            },
+            {
+                "text": "1418.06",
+                "label": "B-TOTAL",
+                "box": [
+                    180,
+                    400,
+                    280,
+                    425
+                ]
+            }
+        ],
+        "language": "es"
+    },
+    {
+        "image_path": "data/images/invoice_26.png",
+        "width": 800,
+        "height": 1000,
+        "entities": [
+            {
+                "text": "Office Supplies Inc.",
+                "label": "B-VENDOR",
+                "box": [
+                    50,
+                    50,
+                    300,
+                    80
+                ]
+            },
+            {
+                "text": "2025-10-07",
+                "label": "B-DATE",
+                "box": [
+                    150,
+                    120,
+                    250,
+                    140
+                ]
+            },
+            {
+                "text": "Item 1 service",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    230,
+                    200,
+                    250
+                ]
+            },
+            {
+                "text": "Item 2 service",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    260,
+                    200,
+                    280
+                ]
+            },
+            {
+                "text": "Item 3 service",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    290,
+                    200,
+                    310
+                ]
+            },
+            {
+                "text": "2616.52",
+                "label": "B-TOTAL",
+                "box": [
+                    180,
+                    400,
+                    280,
+                    425
+                ]
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "image_path": "data/images/invoice_27.png",
+        "width": 800,
+        "height": 1000,
+        "entities": [
+            {
+                "text": "Soluciones Tecnol\u00f3gicas Globales",
+                "label": "B-VENDOR",
+                "box": [
+                    50,
+                    50,
+                    300,
+                    80
+                ]
+            },
+            {
+                "text": "2022-12-09",
+                "label": "B-DATE",
+                "box": [
+                    150,
+                    120,
+                    250,
+                    140
+                ]
+            },
+            {
+                "text": "Servicio 1",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    230,
+                    200,
+                    250
+                ]
+            },
+            {
+                "text": "Servicio 2",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    260,
+                    200,
+                    280
+                ]
+            },
+            {
+                "text": "Servicio 3",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    290,
+                    200,
+                    310
+                ]
+            },
+            {
+                "text": "919.96",
+                "label": "B-TOTAL",
+                "box": [
+                    180,
+                    400,
+                    280,
+                    425
+                ]
+            }
+        ],
+        "language": "es"
+    },
+    {
+        "image_path": "data/images/invoice_28.png",
+        "width": 800,
+        "height": 1000,
+        "entities": [
+            {
+                "text": "North Star Logistics",
+                "label": "B-VENDOR",
+                "box": [
+                    50,
+                    50,
+                    300,
+                    80
+                ]
+            },
+            {
+                "text": "2020-10-23",
+                "label": "B-DATE",
+                "box": [
+                    150,
+                    120,
+                    250,
+                    140
+                ]
+            },
+            {
+                "text": "Item 1 service",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    230,
+                    200,
+                    250
+                ]
+            },
+            {
+                "text": "Item 2 service",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    260,
+                    200,
+                    280
+                ]
+            },
+            {
+                "text": "Item 3 service",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    290,
+                    200,
+                    310
+                ]
+            },
+            {
+                "text": "4772.21",
+                "label": "B-TOTAL",
+                "box": [
+                    180,
+                    400,
+                    280,
+                    425
+                ]
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "image_path": "data/images/invoice_29.png",
+        "width": 800,
+        "height": 1000,
+        "entities": [
+            {
+                "text": "Suministros de Oficina S.A.",
+                "label": "B-VENDOR",
+                "box": [
+                    50,
+                    50,
+                    300,
+                    80
+                ]
+            },
+            {
+                "text": "2022-12-22",
+                "label": "B-DATE",
+                "box": [
+                    150,
+                    120,
+                    250,
+                    140
+                ]
+            },
+            {
+                "text": "Servicio 1",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    230,
+                    200,
+                    250
+                ]
+            },
+            {
+                "text": "Servicio 2",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    260,
+                    200,
+                    280
+                ]
+            },
+            {
+                "text": "Servicio 3",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    290,
+                    200,
+                    310
+                ]
+            },
+            {
+                "text": "1867.99",
+                "label": "B-TOTAL",
+                "box": [
+                    180,
+                    400,
+                    280,
+                    425
+                ]
+            }
+        ],
+        "language": "es"
+    },
+    {
+        "image_path": "data/images/invoice_30.png",
+        "width": 800,
+        "height": 1000,
+        "entities": [
+            {
+                "text": "Office Supplies Inc.",
+                "label": "B-VENDOR",
+                "box": [
+                    50,
+                    50,
+                    300,
+                    80
+                ]
+            },
+            {
+                "text": "2025-10-26",
+                "label": "B-DATE",
+                "box": [
+                    150,
+                    120,
+                    250,
+                    140
+                ]
+            },
+            {
+                "text": "Item 1 service",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    230,
+                    200,
+                    250
+                ]
+            },
+            {
+                "text": "Item 2 service",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    260,
+                    200,
+                    280
+                ]
+            },
+            {
+                "text": "Item 3 service",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    290,
+                    200,
+                    310
+                ]
+            },
+            {
+                "text": "4478.45",
+                "label": "B-TOTAL",
+                "box": [
+                    180,
+                    400,
+                    280,
+                    425
+                ]
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "image_path": "data/images/invoice_31.png",
+        "width": 800,
+        "height": 1000,
+        "entities": [
+            {
+                "text": "Suministros de Oficina S.A.",
+                "label": "B-VENDOR",
+                "box": [
+                    50,
+                    50,
+                    300,
+                    80
+                ]
+            },
+            {
+                "text": "2021-12-17",
+                "label": "B-DATE",
+                "box": [
+                    150,
+                    120,
+                    250,
+                    140
+                ]
+            },
+            {
+                "text": "Servicio 1",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    230,
+                    200,
+                    250
+                ]
+            },
+            {
+                "text": "Servicio 2",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    260,
+                    200,
+                    280
+                ]
+            },
+            {
+                "text": "Servicio 3",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    290,
+                    200,
+                    310
+                ]
+            },
+            {
+                "text": "1521.89",
+                "label": "B-TOTAL",
+                "box": [
+                    180,
+                    400,
+                    280,
+                    425
+                ]
+            }
+        ],
+        "language": "es"
+    },
+    {
+        "image_path": "data/images/invoice_32.png",
+        "width": 800,
+        "height": 1000,
+        "entities": [
+            {
+                "text": "Global Tech Solutions",
+                "label": "B-VENDOR",
+                "box": [
+                    50,
+                    50,
+                    300,
+                    80
+                ]
+            },
+            {
+                "text": "2022-01-15",
+                "label": "B-DATE",
+                "box": [
+                    150,
+                    120,
+                    250,
+                    140
+                ]
+            },
+            {
+                "text": "Item 1 service",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    230,
+                    200,
+                    250
+                ]
+            },
+            {
+                "text": "Item 2 service",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    260,
+                    200,
+                    280
+                ]
+            },
+            {
+                "text": "Item 3 service",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    290,
+                    200,
+                    310
+                ]
+            },
+            {
+                "text": "1714.93",
+                "label": "B-TOTAL",
+                "box": [
+                    180,
+                    400,
+                    280,
+                    425
+                ]
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "image_path": "data/images/invoice_33.png",
+        "width": 800,
+        "height": 1000,
+        "entities": [
+            {
+                "text": "Log\u00edstica Estrella del Norte",
+                "label": "B-VENDOR",
+                "box": [
+                    50,
+                    50,
+                    300,
+                    80
+                ]
+            },
+            {
+                "text": "2020-06-11",
+                "label": "B-DATE",
+                "box": [
+                    150,
+                    120,
+                    250,
+                    140
+                ]
+            },
+            {
+                "text": "Servicio 1",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    230,
+                    200,
+                    250
+                ]
+            },
+            {
+                "text": "Servicio 2",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    260,
+                    200,
+                    280
+                ]
+            },
+            {
+                "text": "Servicio 3",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    290,
+                    200,
+                    310
+                ]
+            },
+            {
+                "text": "1662.64",
+                "label": "B-TOTAL",
+                "box": [
+                    180,
+                    400,
+                    280,
+                    425
+                ]
+            }
+        ],
+        "language": "es"
+    },
+    {
+        "image_path": "data/images/invoice_34.png",
+        "width": 800,
+        "height": 1000,
+        "entities": [
+            {
+                "text": "North Star Logistics",
+                "label": "B-VENDOR",
+                "box": [
+                    50,
+                    50,
+                    300,
+                    80
+                ]
+            },
+            {
+                "text": "2021-03-23",
+                "label": "B-DATE",
+                "box": [
+                    150,
+                    120,
+                    250,
+                    140
+                ]
+            },
+            {
+                "text": "Item 1 service",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    230,
+                    200,
+                    250
+                ]
+            },
+            {
+                "text": "Item 2 service",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    260,
+                    200,
+                    280
+                ]
+            },
+            {
+                "text": "Item 3 service",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    290,
+                    200,
+                    310
+                ]
+            },
+            {
+                "text": "4197.07",
+                "label": "B-TOTAL",
+                "box": [
+                    180,
+                    400,
+                    280,
+                    425
+                ]
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "image_path": "data/images/invoice_35.png",
+        "width": 800,
+        "height": 1000,
+        "entities": [
+            {
+                "text": "Soluciones Tecnol\u00f3gicas Globales",
+                "label": "B-VENDOR",
+                "box": [
+                    50,
+                    50,
+                    300,
+                    80
+                ]
+            },
+            {
+                "text": "2021-12-15",
+                "label": "B-DATE",
+                "box": [
+                    150,
+                    120,
+                    250,
+                    140
+                ]
+            },
+            {
+                "text": "Servicio 1",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    230,
+                    200,
+                    250
+                ]
+            },
+            {
+                "text": "Servicio 2",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    260,
+                    200,
+                    280
+                ]
+            },
+            {
+                "text": "Servicio 3",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    290,
+                    200,
+                    310
+                ]
+            },
+            {
+                "text": "2575.35",
+                "label": "B-TOTAL",
+                "box": [
+                    180,
+                    400,
+                    280,
+                    425
+                ]
+            }
+        ],
+        "language": "es"
+    },
+    {
+        "image_path": "data/images/invoice_36.png",
+        "width": 800,
+        "height": 1000,
+        "entities": [
+            {
+                "text": "Global Tech Solutions",
+                "label": "B-VENDOR",
+                "box": [
+                    50,
+                    50,
+                    300,
+                    80
+                ]
+            },
+            {
+                "text": "2023-01-26",
+                "label": "B-DATE",
+                "box": [
+                    150,
+                    120,
+                    250,
+                    140
+                ]
+            },
+            {
+                "text": "Item 1 service",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    230,
+                    200,
+                    250
+                ]
+            },
+            {
+                "text": "Item 2 service",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    260,
+                    200,
+                    280
+                ]
+            },
+            {
+                "text": "Item 3 service",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    290,
+                    200,
+                    310
+                ]
+            },
+            {
+                "text": "1084.54",
+                "label": "B-TOTAL",
+                "box": [
+                    180,
+                    400,
+                    280,
+                    425
+                ]
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "image_path": "data/images/invoice_37.png",
+        "width": 800,
+        "height": 1000,
+        "entities": [
+            {
+                "text": "Soluciones Tecnol\u00f3gicas Globales",
+                "label": "B-VENDOR",
+                "box": [
+                    50,
+                    50,
+                    300,
+                    80
+                ]
+            },
+            {
+                "text": "2023-12-04",
+                "label": "B-DATE",
+                "box": [
+                    150,
+                    120,
+                    250,
+                    140
+                ]
+            },
+            {
+                "text": "Servicio 1",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    230,
+                    200,
+                    250
+                ]
+            },
+            {
+                "text": "Servicio 2",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    260,
+                    200,
+                    280
+                ]
+            },
+            {
+                "text": "Servicio 3",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    290,
+                    200,
+                    310
+                ]
+            },
+            {
+                "text": "4289.56",
+                "label": "B-TOTAL",
+                "box": [
+                    180,
+                    400,
+                    280,
+                    425
+                ]
+            }
+        ],
+        "language": "es"
+    },
+    {
+        "image_path": "data/images/invoice_38.png",
+        "width": 800,
+        "height": 1000,
+        "entities": [
+            {
+                "text": "Office Supplies Inc.",
+                "label": "B-VENDOR",
+                "box": [
+                    50,
+                    50,
+                    300,
+                    80
+                ]
+            },
+            {
+                "text": "2020-08-18",
+                "label": "B-DATE",
+                "box": [
+                    150,
+                    120,
+                    250,
+                    140
+                ]
+            },
+            {
+                "text": "Item 1 service",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    230,
+                    200,
+                    250
+                ]
+            },
+            {
+                "text": "Item 2 service",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    260,
+                    200,
+                    280
+                ]
+            },
+            {
+                "text": "Item 3 service",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    290,
+                    200,
+                    310
+                ]
+            },
+            {
+                "text": "2434.45",
+                "label": "B-TOTAL",
+                "box": [
+                    180,
+                    400,
+                    280,
+                    425
+                ]
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "image_path": "data/images/invoice_39.png",
+        "width": 800,
+        "height": 1000,
+        "entities": [
+            {
+                "text": "Suministros de Oficina S.A.",
+                "label": "B-VENDOR",
+                "box": [
+                    50,
+                    50,
+                    300,
+                    80
+                ]
+            },
+            {
+                "text": "2021-04-04",
+                "label": "B-DATE",
+                "box": [
+                    150,
+                    120,
+                    250,
+                    140
+                ]
+            },
+            {
+                "text": "Servicio 1",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    230,
+                    200,
+                    250
+                ]
+            },
+            {
+                "text": "Servicio 2",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    260,
+                    200,
+                    280
+                ]
+            },
+            {
+                "text": "Servicio 3",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    290,
+                    200,
+                    310
+                ]
+            },
+            {
+                "text": "428.34",
+                "label": "B-TOTAL",
+                "box": [
+                    180,
+                    400,
+                    280,
+                    425
+                ]
+            }
+        ],
+        "language": "es"
+    },
+    {
+        "image_path": "data/images/invoice_40.png",
+        "width": 800,
+        "height": 1000,
+        "entities": [
+            {
+                "text": "Office Supplies Inc.",
+                "label": "B-VENDOR",
+                "box": [
+                    50,
+                    50,
+                    300,
+                    80
+                ]
+            },
+            {
+                "text": "2023-08-25",
+                "label": "B-DATE",
+                "box": [
+                    150,
+                    120,
+                    250,
+                    140
+                ]
+            },
+            {
+                "text": "Item 1 service",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    230,
+                    200,
+                    250
+                ]
+            },
+            {
+                "text": "Item 2 service",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    260,
+                    200,
+                    280
+                ]
+            },
+            {
+                "text": "Item 3 service",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    290,
+                    200,
+                    310
+                ]
+            },
+            {
+                "text": "2585.64",
+                "label": "B-TOTAL",
+                "box": [
+                    180,
+                    400,
+                    280,
+                    425
+                ]
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "image_path": "data/images/invoice_41.png",
+        "width": 800,
+        "height": 1000,
+        "entities": [
+            {
+                "text": "Suministros de Oficina S.A.",
+                "label": "B-VENDOR",
+                "box": [
+                    50,
+                    50,
+                    300,
+                    80
+                ]
+            },
+            {
+                "text": "2024-05-16",
+                "label": "B-DATE",
+                "box": [
+                    150,
+                    120,
+                    250,
+                    140
+                ]
+            },
+            {
+                "text": "Servicio 1",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    230,
+                    200,
+                    250
+                ]
+            },
+            {
+                "text": "Servicio 2",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    260,
+                    200,
+                    280
+                ]
+            },
+            {
+                "text": "Servicio 3",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    290,
+                    200,
+                    310
+                ]
+            },
+            {
+                "text": "4004.92",
+                "label": "B-TOTAL",
+                "box": [
+                    180,
+                    400,
+                    280,
+                    425
+                ]
+            }
+        ],
+        "language": "es"
+    },
+    {
+        "image_path": "data/images/invoice_42.png",
+        "width": 800,
+        "height": 1000,
+        "entities": [
+            {
+                "text": "North Star Logistics",
+                "label": "B-VENDOR",
+                "box": [
+                    50,
+                    50,
+                    300,
+                    80
+                ]
+            },
+            {
+                "text": "2024-12-23",
+                "label": "B-DATE",
+                "box": [
+                    150,
+                    120,
+                    250,
+                    140
+                ]
+            },
+            {
+                "text": "Item 1 service",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    230,
+                    200,
+                    250
+                ]
+            },
+            {
+                "text": "Item 2 service",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    260,
+                    200,
+                    280
+                ]
+            },
+            {
+                "text": "Item 3 service",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    290,
+                    200,
+                    310
+                ]
+            },
+            {
+                "text": "125.39",
+                "label": "B-TOTAL",
+                "box": [
+                    180,
+                    400,
+                    280,
+                    425
+                ]
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "image_path": "data/images/invoice_43.png",
+        "width": 800,
+        "height": 1000,
+        "entities": [
+            {
+                "text": "Log\u00edstica Estrella del Norte",
+                "label": "B-VENDOR",
+                "box": [
+                    50,
+                    50,
+                    300,
+                    80
+                ]
+            },
+            {
+                "text": "2023-05-16",
+                "label": "B-DATE",
+                "box": [
+                    150,
+                    120,
+                    250,
+                    140
+                ]
+            },
+            {
+                "text": "Servicio 1",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    230,
+                    200,
+                    250
+                ]
+            },
+            {
+                "text": "Servicio 2",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    260,
+                    200,
+                    280
+                ]
+            },
+            {
+                "text": "Servicio 3",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    290,
+                    200,
+                    310
+                ]
+            },
+            {
+                "text": "4753.83",
+                "label": "B-TOTAL",
+                "box": [
+                    180,
+                    400,
+                    280,
+                    425
+                ]
+            }
+        ],
+        "language": "es"
+    },
+    {
+        "image_path": "data/images/invoice_44.png",
+        "width": 800,
+        "height": 1000,
+        "entities": [
+            {
+                "text": "North Star Logistics",
+                "label": "B-VENDOR",
+                "box": [
+                    50,
+                    50,
+                    300,
+                    80
+                ]
+            },
+            {
+                "text": "2024-11-07",
+                "label": "B-DATE",
+                "box": [
+                    150,
+                    120,
+                    250,
+                    140
+                ]
+            },
+            {
+                "text": "Item 1 service",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    230,
+                    200,
+                    250
+                ]
+            },
+            {
+                "text": "Item 2 service",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    260,
+                    200,
+                    280
+                ]
+            },
+            {
+                "text": "Item 3 service",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    290,
+                    200,
+                    310
+                ]
+            },
+            {
+                "text": "3596.64",
+                "label": "B-TOTAL",
+                "box": [
+                    180,
+                    400,
+                    280,
+                    425
+                ]
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "image_path": "data/images/invoice_45.png",
+        "width": 800,
+        "height": 1000,
+        "entities": [
+            {
+                "text": "Soluciones Tecnol\u00f3gicas Globales",
+                "label": "B-VENDOR",
+                "box": [
+                    50,
+                    50,
+                    300,
+                    80
+                ]
+            },
+            {
+                "text": "2025-10-26",
+                "label": "B-DATE",
+                "box": [
+                    150,
+                    120,
+                    250,
+                    140
+                ]
+            },
+            {
+                "text": "Servicio 1",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    230,
+                    200,
+                    250
+                ]
+            },
+            {
+                "text": "Servicio 2",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    260,
+                    200,
+                    280
+                ]
+            },
+            {
+                "text": "Servicio 3",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    290,
+                    200,
+                    310
+                ]
+            },
+            {
+                "text": "4571.39",
+                "label": "B-TOTAL",
+                "box": [
+                    180,
+                    400,
+                    280,
+                    425
+                ]
+            }
+        ],
+        "language": "es"
+    },
+    {
+        "image_path": "data/images/invoice_46.png",
+        "width": 800,
+        "height": 1000,
+        "entities": [
+            {
+                "text": "North Star Logistics",
+                "label": "B-VENDOR",
+                "box": [
+                    50,
+                    50,
+                    300,
+                    80
+                ]
+            },
+            {
+                "text": "2022-07-11",
+                "label": "B-DATE",
+                "box": [
+                    150,
+                    120,
+                    250,
+                    140
+                ]
+            },
+            {
+                "text": "Item 1 service",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    230,
+                    200,
+                    250
+                ]
+            },
+            {
+                "text": "Item 2 service",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    260,
+                    200,
+                    280
+                ]
+            },
+            {
+                "text": "Item 3 service",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    290,
+                    200,
+                    310
+                ]
+            },
+            {
+                "text": "2124.41",
+                "label": "B-TOTAL",
+                "box": [
+                    180,
+                    400,
+                    280,
+                    425
+                ]
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "image_path": "data/images/invoice_47.png",
+        "width": 800,
+        "height": 1000,
+        "entities": [
+            {
+                "text": "Log\u00edstica Estrella del Norte",
+                "label": "B-VENDOR",
+                "box": [
+                    50,
+                    50,
+                    300,
+                    80
+                ]
+            },
+            {
+                "text": "2022-04-24",
+                "label": "B-DATE",
+                "box": [
+                    150,
+                    120,
+                    250,
+                    140
+                ]
+            },
+            {
+                "text": "Servicio 1",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    230,
+                    200,
+                    250
+                ]
+            },
+            {
+                "text": "Servicio 2",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    260,
+                    200,
+                    280
+                ]
+            },
+            {
+                "text": "Servicio 3",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    290,
+                    200,
+                    310
+                ]
+            },
+            {
+                "text": "1164.51",
+                "label": "B-TOTAL",
+                "box": [
+                    180,
+                    400,
+                    280,
+                    425
+                ]
+            }
+        ],
+        "language": "es"
+    },
+    {
+        "image_path": "data/images/invoice_48.png",
+        "width": 800,
+        "height": 1000,
+        "entities": [
+            {
+                "text": "Office Supplies Inc.",
+                "label": "B-VENDOR",
+                "box": [
+                    50,
+                    50,
+                    300,
+                    80
+                ]
+            },
+            {
+                "text": "2024-03-19",
+                "label": "B-DATE",
+                "box": [
+                    150,
+                    120,
+                    250,
+                    140
+                ]
+            },
+            {
+                "text": "Item 1 service",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    230,
+                    200,
+                    250
+                ]
+            },
+            {
+                "text": "Item 2 service",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    260,
+                    200,
+                    280
+                ]
+            },
+            {
+                "text": "Item 3 service",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    290,
+                    200,
+                    310
+                ]
+            },
+            {
+                "text": "787.83",
+                "label": "B-TOTAL",
+                "box": [
+                    180,
+                    400,
+                    280,
+                    425
+                ]
+            }
+        ],
+        "language": "en"
+    },
+    {
+        "image_path": "data/images/invoice_49.png",
+        "width": 800,
+        "height": 1000,
+        "entities": [
+            {
+                "text": "Suministros de Oficina S.A.",
+                "label": "B-VENDOR",
+                "box": [
+                    50,
+                    50,
+                    300,
+                    80
+                ]
+            },
+            {
+                "text": "2022-09-16",
+                "label": "B-DATE",
+                "box": [
+                    150,
+                    120,
+                    250,
+                    140
+                ]
+            },
+            {
+                "text": "Servicio 1",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    230,
+                    200,
+                    250
+                ]
+            },
+            {
+                "text": "Servicio 2",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    260,
+                    200,
+                    280
+                ]
+            },
+            {
+                "text": "Servicio 3",
+                "label": "B-ITEM",
+                "box": [
+                    50,
+                    290,
+                    200,
+                    310
+                ]
+            },
+            {
+                "text": "187.21",
+                "label": "B-TOTAL",
+                "box": [
+                    180,
+                    400,
+                    280,
+                    425
+                ]
+            }
+        ],
+        "language": "es"
+    }
+]
