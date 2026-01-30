@@ -75,10 +75,11 @@ def main():
         data = generate_synthetic_invoice(i, lang)
         dataset.append(data)
         
-    with open("data/dataset.json", "w") as f:
+    from config import DATASET_PATH, IMAGES_DIR
+    with open(str(DATASET_PATH), "w") as f:
         json.dump(dataset, f, indent=4)
         
-    print(f"Generated {args.samples} synthetic invoices in 'data/' directory.")
+    print(f"Generated {args.samples} synthetic invoices in {DATASET_PATH.parent} directory.")
 
 if __name__ == "__main__":
     main()
