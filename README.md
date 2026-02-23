@@ -42,7 +42,7 @@
 {
   "vendor_name": "Global Tech Solutions",
   "invoice_date": "2021-12-08",
-  "total_amount": "$3873.71",
+  "total_amount": "$2688",
   "line_items": [],
   "confidence_scores": {
     "vendor": 0.25,
