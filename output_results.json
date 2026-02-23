@@ -1,25 +1,29 @@
 [
     {
-        "file": "/Users/dakshjain/Desktop/GitHubDemos/NEODEMO1/data/images/invoice_0.png",
+        "file": "/Users/dakshjain/Desktop/OCR-update/Multi-Model-Invoice-OCR-Pipeline/data/images/invoice_0.png",
         "output": {
-            "vendor_name": "a b.",
+            "vendor_name": "Global Tech Solutions Date: -12-03",
             "invoice_date": "2021-12-08",
             "total_amount": "$3873.71",
             "line_items": [],
             "confidence_scores": {
-                "vendor": 0.5679317712783813
+                "date": 0.26495084166526794,
+                "total": 0.22366328537464142,
+                "vendor": 0.25284677743911743
             }
         }
     },
     {
-        "file": "/Users/dakshjain/Desktop/GitHubDemos/NEODEMO1/data/images/invoice_1.png",
+        "file": "/Users/dakshjain/Desktop/OCR-update/Multi-Model-Invoice-OCR-Pipeline/data/images/invoice_1.png",
         "output": {
-            "vendor_name": "economic memory of the time the COVID 19-00080008000800080008",
+            "vendor_name": "Suministros de Oficina S A Fecha: -02-23",
             "invoice_date": "2022-02-23",
             "total_amount": null,
             "line_items": [],
             "confidence_scores": {
-                "vendor": 0.5711016654968262
+                "date": 0.31517553329467773,
+                "vendor": 0.24437907338142395,
+                "total": 0.24848729372024536
             }
         }
     }

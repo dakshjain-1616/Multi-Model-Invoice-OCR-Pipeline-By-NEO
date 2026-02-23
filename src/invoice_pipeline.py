@@ -5,9 +5,9 @@ import re
 from PIL import Image
 from transformers import AutoTokenizer, AutoModelForTokenClassification, pipeline, LayoutLMv3Processor
 try:
-    from .processor_modules import InvoiceOCRGLM as InvoiceOCRTrOCR
+    from .processor_modules import InvoiceOCROpenRouter as InvoiceOCREngine
 except (ImportError, ValueError):
-    from processor_modules import InvoiceOCRGLM as InvoiceOCRTrOCR
+    from processor_modules import InvoiceOCROpenRouter as InvoiceOCREngine
 import pytesseract
 
 class InvoiceProcessorPipeline:
@@ -20,7 +20,7 @@ class InvoiceProcessorPipeline:
             model_path = str(NER_MODEL_PATH)
             
         print(f"Initializing Enhanced Pipeline v2...")
-        self.ocr_engine = InvoiceOCRTrOCR()
+        self.ocr_engine = InvoiceOCREngine()
         self.layout_processor = LayoutLMv3Processor.from_pretrained("microsoft/layoutlmv3-base", apply_ocr=True)
         
         abs_model_path = os.path.abspath(model_path)
