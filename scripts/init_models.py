@@ -3,7 +3,7 @@ import torch
 import sys
 from transformers import (
     LayoutLMv3Processor,
-    TrOCRProcessor, VisionEncoderDecoderModel,
+    AutoProcessor, AutoModelForImageTextToText,
     AutoTokenizer, AutoModelForTokenClassification
 )
 
@@ -14,9 +14,10 @@ def download_models():
     # Using processor only for now as weights are large and we will fine-tune or load specific checkpoints
     LayoutLMv3Processor.from_pretrained("microsoft/layoutlmv3-base")
     
-    print("Downloading TrOCR...")
-    TrOCRProcessor.from_pretrained("microsoft/trocr-base-handwritten")
-    VisionEncoderDecoderModel.from_pretrained("microsoft/trocr-base-handwritten")
+    print("Downloading GLM-OCR...")
+    model_id = "zai-org/GLM-OCR"
+    AutoProcessor.from_pretrained(model_id, trust_remote_code=True)
+    AutoModelForImageTextToText.from_pretrained(model_id, trust_remote_code=True)
     
     print("Downloading Multilingual BERT...")
     AutoTokenizer.from_pretrained("bert-base-multilingual-cased")

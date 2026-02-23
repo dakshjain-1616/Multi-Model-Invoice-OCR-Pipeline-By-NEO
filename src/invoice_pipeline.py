@@ -5,9 +5,9 @@ import re
 from PIL import Image
 from transformers import AutoTokenizer, AutoModelForTokenClassification, pipeline, LayoutLMv3Processor
 try:
-    from .processor_modules import InvoiceOCRTrOCR
+    from .processor_modules import InvoiceOCRGLM as InvoiceOCRTrOCR
 except (ImportError, ValueError):
-    from processor_modules import InvoiceOCRTrOCR
+    from processor_modules import InvoiceOCRGLM as InvoiceOCRTrOCR
 import pytesseract
 
 class InvoiceProcessorPipeline:

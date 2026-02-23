@@ -13,6 +13,7 @@ DATASET_PATH = DATA_DIR / "dataset.json"
 # Model paths
 MODEL_DIR = PROJECT_ROOT / "models"
 NER_MODEL_PATH = MODEL_DIR / "invoice_ner_bert"
+OCR_MODEL_ID = "zai-org/GLM-OCR"
 
 # Output paths
 RESULTS_DIR = PROJECT_ROOT / "results"
