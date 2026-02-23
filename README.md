@@ -35,7 +35,7 @@
 
 **Watch the Demo Video:**
 
-<video src="OCR_updated.mov" controls="controls" width="100%" style="max-width: 800px;"></video>
+<video src="OCR_updated.mp4" controls="controls" width="100%" style="max-width: 800px;"></video>
 
 **Input Invoice:**
 
